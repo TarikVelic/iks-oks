@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Game from './game';
+import Game from './component/Iks-oks/game';
 
 const App = () => {
   return (
