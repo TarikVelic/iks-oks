@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import './Game.scss';
 import clickSound from '../../sound/clickSound.wav';
 import winnerSound from '../../sound/winSound.mp3';
-import drawSound from '../../sound/drawSound.mp3'; // Update the path to your draw sound
+import drawSound from '../../sound/drawSound.mp3'; 
 
 const initialBoard = Array(9).fill(null);
 const clickAudio = new Audio(clickSound);
