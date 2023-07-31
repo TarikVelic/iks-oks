@@ -27,7 +27,7 @@
 
   &:active {
     background: $primary-blue;
-    color: #fff;
+    color: $white-color;
     transform: scale(0.9);
   }
 }
@@ -42,7 +42,7 @@
   padding: 10px 20px;
   font-size: 16px;
   background: $primary-blue;
-  color: #fff;
+  color: $white-color;
   border: none;
   border-radius: 5px;
   cursor: pointer;
