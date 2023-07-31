@@ -1,6 +1,6 @@
 
 
-HOW TO RUN APP!
+HOW TO RUN APP!, PLAYABLE BUT STILL WIP
 
 BUILD - npm install - START - npm start
 
